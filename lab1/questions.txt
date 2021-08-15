@@ -15,3 +15,4 @@ The questions includes the application of branching, looping as well as the func
 5. WAP in R to find the sum of n natural numbers without formula.
 
 6. Design a simple calculator in R.
+
